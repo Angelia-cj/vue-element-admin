@@ -1,0 +1,10 @@
+// 使用 @ 导入文件提示
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "paths": {
+      "@/*":["src/*"]
+    }
+  },
+  "exclude": ["node_modules","dist"]
+}

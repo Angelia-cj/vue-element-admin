@@ -2,17 +2,17 @@
  * @description: 
  * @version: 
  * @Author: changjia
- * @Date: 2021-11-10 21:45:55
+ * @Date: 2021-11-11 21:20:59
  * @LastEditors: changjia
- * @LastEditTime: 2021-11-11 21:23:48
+ * @LastEditTime: 2021-11-11 21:20:59
 -->
 <template>
-xxxxxxx
+
 </template>
 
 <script>
 export default {
-  name: 'Login',
+  name: 'Profile',
 
 }
 </script>

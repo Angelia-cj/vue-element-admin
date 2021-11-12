@@ -4,7 +4,7 @@
  * @Author: changjia
  * @Date: 2021-11-10 21:39:35
  * @LastEditors: changjia
- * @LastEditTime: 2021-11-10 21:43:03
+ * @LastEditTime: 2021-11-11 19:09:15
 -->
 <template>
 
@@ -12,6 +12,7 @@
 
 <script>
 export default {
+  name:'redirect',
   created() {
     const { params, query} = this.$route
     const { path } = params

@@ -1,4 +1,4 @@
-// 使用 @ 导入文件提示
+// 让vscode提示 @ 开头的模块路径引入
 {
   "compilerOptions": {
     "baseUrl": "./",
@@ -6,5 +6,6 @@
       "@/*":["src/*"]
     }
   },
+  // 排除查找的文件夹
   "exclude": ["node_modules","dist"]
 }

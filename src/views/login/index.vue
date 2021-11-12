@@ -1,19 +1,18 @@
 <!--
- * @description: 
- * @version: 
+ * @description:
+ * @version:
  * @Author: changjia
  * @Date: 2021-11-10 21:45:55
  * @LastEditors: changjia
- * @LastEditTime: 2021-11-11 21:23:48
+ * @LastEditTime: 2021-11-12 14:20:21
 -->
 <template>
-xxxxxxx
+  <div></div>
 </template>
 
 <script>
 export default {
   name: 'Login',
-
 }
 </script>
 

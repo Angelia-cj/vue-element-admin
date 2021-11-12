@@ -132,6 +132,7 @@ export const constantRoutes = [
 
 /**
  * asyncRoutes：异步路由
+ * 需要权限要求的页面
  * 需要根据用户角色动态加载的路由
  */
 export const asyncRoutes = [
